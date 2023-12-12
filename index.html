@@ -5,6 +5,6 @@
        <title>たいとるだよ～</title>
 　</head>
 　<body>
-　　からだだよ～
+　　からだだよ
 　</body>
 </html>
